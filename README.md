@@ -1,6 +1,6 @@
 # SQL Webhook Solver (Spring Boot)
 
-## ⚠️ Important Note
+##  Important Note
 I was not able to complete this assignment because my **IntelliJ IDE crashed repeatedly** while I was setting up and coding the project. As a result, I couldn’t build and submit a viable, runnable Spring Boot application in time.  
 
 However, I had a clear plan in mind for how I intended to implement the solution.  
